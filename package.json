@@ -1,0 +1,15 @@
+{
+  "name": "cyclonTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomjhinton/cyclonTest.git",
+  "author": "Tom Hinton <tomjhinton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-firmata": "^0.24.0",
+    "cylon-gpio": "^0.30.1",
+    "cylon-i2c": "^0.26.1",
+    "gort": "^0.0.0"
+  }
+}
